@@ -2,3 +2,8 @@ h2{
     background-color: aqua;
     border: 2px solid bisque;
 }
+body{
+    background-color: bisque;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
